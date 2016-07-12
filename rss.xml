@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[geek]]></title>
         <description><![CDATA[geek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/geek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 00:24:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 00:25:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/geek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Grandes escenas de películas convertidas en .gif]]></title>
+            <description><![CDATA[<article><h1>Grandes escenas de películas convertidas en .gif</h1><p>"If you wake up at a different time, in a different place, could you wake up as a different person?". Fight Club (1999) If We Don`t, Remember Me tiene una interesante recopilación de .gif animados de grandes escenas de películas. Sobre todo me gustaron los .gif del Club de</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0d2e54f45608823c0980f05430951c90/noop.gif?input=http%3A%2F%2F24.media.tumblr.com%2F38ad849338d5e1eeecfd1880b0497514%2Ftumblr_mh6d6nDLrR1qe0eclo1_r6_500.gif"></article>]]></description>
+            <link>https://geek.cl/grandes-escenas-de-peliculas-convertidas-gif/</link>
+            <guid isPermaLink="false">f165c56f-ca58-44c4-ad66-9cbbb8b5ee85</guid>
+            <pubDate>Tue, 12 Jul 2016 00:25:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reproductor multimedia portátil HD]]></title>
-            <description><![CDATA[<article><h1>Reproductor multimedia portátil HD</h1><p>Este reproductor multimedia lo tengo hace bastante tiempo y lo compré para poder ver en la televisión películas y series que descargo, creo que por el precio y su tamaño cumple su función bastante bien. Como es compacto y de fácil manejo se acomoda bien en cualquier bolso o bolsillo</p><img src="https://geek.cl/content/images/2016/06/reproductor-slot-tarjeta.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Reproductor multimedia portátil HD</h1><p>Este reproductor multimedia lo tengo hace bastante tiempo y lo compré para poder ver en la televisión películas y series que descargo, creo que por el precio y su tamaño cumple su función bastante bien. Como es compacto y de fácil manejo se acomoda bien en cualquier bolso o bolsillo</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2dfda3fe0bc348b3122404c0db3ea810/noop.jpg?input=https%3A%2F%2Fgeek.cl%2Fcontent%2Fimages%2F2016%2F06%2Freproductor-slot-tarjeta.jpg"></article>]]></description>
             <link>https://geek.cl/reproductor-multimedia-portatil-hd/</link>
             <guid isPermaLink="false">3b8bc3c5-9a52-4765-aaf0-f8a22d046ce0</guid>
             <pubDate>Tue, 12 Jul 2016 00:24:19 GMT</pubDate>
