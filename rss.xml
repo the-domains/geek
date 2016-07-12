@@ -4,8 +4,15 @@
         <description><![CDATA[geek]]></description>
         <link>https://thegrid.ai/geek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 00:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 00:31:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Series de TV que estoy viendo]]></title>
+            <description><![CDATA[<article><h1>Series de TV que estoy viendo</h1><p>Este artículo no pretende ser un análisis del punto de vista de un crítico de tv ni menos algo donde vas a encontrar un detallado análisis de las personalidades de los personajes. En este artículo solo quiero compartir las series de tv que estoy viendo actualmente. Soy de los que</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f693946ab405cb490d43ec3d13bc8b9/noop.jpg?input=https%3A%2F%2Fgeek.cl%2Fcontent%2Fimages%2F2014%2F12%2Fleftovers.jpg"></article>]]></description>
+            <link>https://geek.cl/series-de-tv-que-estoy-viendo/</link>
+            <guid isPermaLink="false">163caba8-e03d-4e9b-b835-1e694119a0e6</guid>
+            <pubDate>Tue, 12 Jul 2016 00:31:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Introducción a la Teoría de la Computación [EN]]]></title>
             <description><![CDATA[<article><h1>Introducción a la Teoría de la Computación [EN]</h1><p>Introduction to Theory of Computation un extenso e interesante documento por Anil Maheshwari y Michiel Smid, donde intentan responder algunas de estas preguntas: ¿Qué es un cálculo, qué es un algoritmo? ¿Cuáles son las limitaciones de las computadoras? ¿Puede ser todo computado/calculado? Descárguenlo que es gratis y más encima</p></article>]]></description>
