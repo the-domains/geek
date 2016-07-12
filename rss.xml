@@ -4,8 +4,15 @@
         <description><![CDATA[geek]]></description>
         <link>https://thegrid.ai/geek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 00:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 00:32:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Turismo Astronómico en Chile]]></title>
+            <description><![CDATA[<article><h1>Turismo Astronómico en Chile</h1><p>Tengo la suerte de vivir sin lugar a dudas en uno de los mejores lugares para disfrutar de la astronomía o turismo astronómico, la región de Antofagasta en Chile, con sus cielos realmente oscuros y despejados permiten disfrutar del cosmos en todo su esplendor sin necesidad de alejarse demasiado de</p><img src="https://geek.cl/content/images/2015/04/alma-telescopio.jpg"></article>]]></description>
+            <link>https://geek.cl/turismo-astronomico/</link>
+            <guid isPermaLink="false">4efc2f27-6aac-4bc8-bce3-b18ab01cb91c</guid>
+            <pubDate>Tue, 12 Jul 2016 00:32:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Abrid los ojos ignorantes! - Leonardo da Vinci]]></title>
             <description><![CDATA[<article><h1>Abrid los ojos ignorantes! - Leonardo da Vinci</h1><p>La cegadora ignorancia nos confunde. ¡Oh miserables mortales, abrid los ojos! Leonardo da Vinci</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://geek.cl/pinturas-dias-lluviosos-asombrosamente-realistas/</link>
             <guid isPermaLink="false">ebaa1e47-d8e6-46fc-a344-58bc8eff061d</guid>
             <pubDate>Tue, 12 Jul 2016 00:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reproductor multimedia portátil HD]]></title>
-            <description><![CDATA[<article><h1>Reproductor multimedia portátil HD</h1><p>Este reproductor multimedia lo tengo hace bastante tiempo y lo compré para poder ver en la televisión películas y series que descargo, creo que por el precio y su tamaño cumple su función bastante bien. Como es compacto y de fácil manejo se acomoda bien en cualquier bolso o bolsillo</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2dfda3fe0bc348b3122404c0db3ea810/noop.jpg?input=https%3A%2F%2Fgeek.cl%2Fcontent%2Fimages%2F2016%2F06%2Freproductor-slot-tarjeta.jpg"></article>]]></description>
-            <link>https://geek.cl/reproductor-multimedia-portatil-hd/</link>
-            <guid isPermaLink="false">3b8bc3c5-9a52-4765-aaf0-f8a22d046ce0</guid>
-            <pubDate>Tue, 12 Jul 2016 00:24:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
