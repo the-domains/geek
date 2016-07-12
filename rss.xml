@@ -4,8 +4,15 @@
         <description><![CDATA[geek]]></description>
         <link>https://thegrid.ai/geek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 00:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 00:31:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gpg-agent en OS X]]></title>
+            <description><![CDATA[<article><h1>gpg-agent en OS X</h1><p>Que sirva como una nota para quien se le presente el mismo problema y no pierda tanto tiempo buceando la red en busca de la solución. gpg-agent es el programa encargado de evitar tener que estar ingresando la contraseña continuamente, una vez que ingreso la contraseña maestra de gpg, gpg-agent</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/67d82bc86c36762269d2a3623b325d5c/noop.png?input=https%3A%2F%2Fgeek.cl%2Fcontent%2Fimages%2F2014%2F12%2Flogo-gnupg.png"></article>]]></description>
+            <link>https://geek.cl/mac-os-x-y-gpg-agent/</link>
+            <guid isPermaLink="false">2257e1d3-83a0-4dbd-b06a-64ce3644d210</guid>
+            <pubDate>Tue, 12 Jul 2016 00:31:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Series de TV que estoy viendo]]></title>
             <description><![CDATA[<article><h1>Series de TV que estoy viendo</h1><p>Este artículo no pretende ser un análisis del punto de vista de un crítico de tv ni menos algo donde vas a encontrar un detallado análisis de las personalidades de los personajes. En este artículo solo quiero compartir las series de tv que estoy viendo actualmente. Soy de los que</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f693946ab405cb490d43ec3d13bc8b9/noop.jpg?input=https%3A%2F%2Fgeek.cl%2Fcontent%2Fimages%2F2014%2F12%2Fleftovers.jpg"></article>]]></description>
