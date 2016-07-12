@@ -1,4 +1,3 @@
-layout_spectrum: 0.05285419337451458
 typography_spectrum: 0.7806930497754365
 color:
   brandStrength: 0.7727396073751152
@@ -11,4 +10,10 @@ color:
     - '#B1E001'
     - '#CEF09D'
     - '#476C5E'
+layout_spectrum: 0.05285419337451458
+author:
+  name: Tyl3r
+  email: tyl3r@mm.st
+  url: 'https://geek.cl'
 name: geek
+title: Espejo de geek.cl en The Grid
