@@ -1,0 +1,14 @@
+layout_spectrum: 0.05285419337451458
+typography_spectrum: 0.7806930497754365
+color:
+  brandStrength: 0.7727396073751152
+  lightness: 0.6375696156173944
+  saturation: 0.3830366951879114
+  rhythmicContrast: 0.13640773599036038
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: geek
