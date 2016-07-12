@@ -4,8 +4,15 @@
         <description><![CDATA[geek]]></description>
         <link>https://thegrid.ai/geek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 00:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 00:32:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[De Linux a OS X con cafeína (Homebrew)]]></title>
+            <description><![CDATA[<article><h1>De Linux a OS X con cafeína (Homebrew)</h1><p>Me gusta OS X encuentro que es un buen sistema operativo, bastante estable, bonito a la vista y con muchas características que hacen que se destaque por sobre Windows principalmente. Aunque debo confesar que mis inicios en las computadoras fueron en Windows, rápidamente migré a Linux para ahí recien lograr</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dea77eb2a026efae6a231c2475cd3547/noop.png?input=https%3A%2F%2Fgeek.cl%2Fcontent%2Fimages%2F2014%2F12%2Fhomebrew-os-x-unix-1.png"></article>]]></description>
+            <link>https://geek.cl/linux-os-x-cafeina-homebrew/</link>
+            <guid isPermaLink="false">53531b8e-efdc-4ad6-8798-43d65dde0a55</guid>
+            <pubDate>Tue, 12 Jul 2016 00:32:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[gpg-agent en OS X]]></title>
             <description><![CDATA[<article><h1>gpg-agent en OS X</h1><p>Que sirva como una nota para quien se le presente el mismo problema y no pierda tanto tiempo buceando la red en busca de la solución. gpg-agent es el programa encargado de evitar tener que estar ingresando la contraseña continuamente, una vez que ingreso la contraseña maestra de gpg, gpg-agent</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/67d82bc86c36762269d2a3623b325d5c/noop.png?input=https%3A%2F%2Fgeek.cl%2Fcontent%2Fimages%2F2014%2F12%2Flogo-gnupg.png"></article>]]></description>
