@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[geek]]></title>
+        <description><![CDATA[geek]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 00:24:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reproductor multimedia portátil HD]]></title>
+            <description><![CDATA[<article><h1>Reproductor multimedia portátil HD</h1><p>Este reproductor multimedia lo tengo hace bastante tiempo y lo compré para poder ver en la televisión películas y series que descargo, creo que por el precio y su tamaño cumple su función bastante bien. Como es compacto y de fácil manejo se acomoda bien en cualquier bolso o bolsillo</p><img src="https://geek.cl/content/images/2016/06/reproductor-slot-tarjeta.jpg"></article>]]></description>
+            <link>https://geek.cl/reproductor-multimedia-portatil-hd/</link>
+            <guid isPermaLink="false">3b8bc3c5-9a52-4765-aaf0-f8a22d046ce0</guid>
+            <pubDate>Tue, 12 Jul 2016 00:24:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
