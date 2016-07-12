@@ -4,8 +4,15 @@
         <description><![CDATA[geek]]></description>
         <link>https://thegrid.ai/geek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 00:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 00:30:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducción a la Teoría de la Computación [EN]]]></title>
+            <description><![CDATA[<article><h1>Introducción a la Teoría de la Computación [EN]</h1><p>Introduction to Theory of Computation un extenso e interesante documento por Anil Maheshwari y Michiel Smid, donde intentan responder algunas de estas preguntas: ¿Qué es un cálculo, qué es un algoritmo? ¿Cuáles son las limitaciones de las computadoras? ¿Puede ser todo computado/calculado? Descárguenlo que es gratis y más encima</p></article>]]></description>
+            <link>https://geek.cl/introduccion-teoria-computacion/</link>
+            <guid isPermaLink="false">f8263293-8817-49c2-8e41-680bfb40c928</guid>
+            <pubDate>Tue, 12 Jul 2016 00:30:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El mejor formulario de contacto del mundo mundial]]></title>
             <description><![CDATA[<article><h1>El mejor formulario de contacto del mundo mundial</h1><p>http://contact.darkigloo.com/</p></article>]]></description>
