@@ -16,4 +16,8 @@ author:
   email: tyl3r@mm.st
   url: 'https://geek.cl'
 name: geek
+navigation:
+  - name: 'Geek '
+    url: 'https:geek.cl'
+    type: external
 title: Espejo de geek.cl en The Grid
